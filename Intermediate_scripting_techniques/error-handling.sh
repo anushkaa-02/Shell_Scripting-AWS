@@ -9,4 +9,4 @@ if ! create_directory; then
 	exit 1
 fi
 
-echo "this should not work beacuse the code is interrupted"
+echo "this should not work because the code is interrupted"
